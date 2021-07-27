@@ -22,10 +22,10 @@ también arquitectura, patrones y diseños de software, programación funcional,
 <!--footer-->
 #### Último post
 <!--lpstart--->
-|Tres arquitecturas orientadas a eventos|
+|Mi machete de testing|
 |:-|
-|<p>Considerando <a href="https://enzodiazdev.medium.com/predicciones-del-realtime-para-el-2021-d63dc438ed6d">lo que nos depara para este 2021</a>, en esta entrada acerco <strong>tres arquitecturas orientadas a eventos </strong>que no pueden faltar en tu portafolios,<strong> </strong>para solucionar la alta demanda de sistemas en tiempo real.</p><p>Es probable que te parezcan poco relevantes e incluso que ya las hayas consumido incluso aunque no lo sepas, pero no quita el hecho que <strong>conocer estas arquitecturas es fundamental </strong>para...|
-|<div align="right"><a href="https://enzodiazdev.medium.com/tres-arquitecturas-orientadas-a-eventos-1f3ded948763?source=rss-76b0c55e6d4b------2">*leer más...*</a></div>|
+|<p>Machete basado principalmente en el libro <a href="https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/">Testing — Introduccion a las pruebas de sistemas de información</a>, de Federico Toledo.</p><h4><strong>Calidad</strong>:</h4><p>La calidad es una característica que nos permite comparar distintas cosas del mismo tipo. Se calcula asignándole un valor en base a un conjunto de propiedades (seguridad, performance, usabilidad, etc.), que podrán ser ponderadas de distinta forma.</p><p>Hay que...|
+|<div align="right"><a href="https://enzodiazdev.medium.com/mi-machete-de-testing-f81743b18835?source=rss-76b0c55e6d4b------2">*leer más...*</a></div>|
 <!--lpend--->
 
 **Contactame**
