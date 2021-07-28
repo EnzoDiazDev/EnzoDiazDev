@@ -1,12 +1,12 @@
 ### Programador Javascript, desarrollador HTML y CSS. 
 <!--header--->
 Desarrollador independiente. Me gusta el trabajo colaborativo, el código abierto, compartir conocimiento, el scripting y la automatización.
- * Explorando nuevas tecnologías.🚀
- * Colaborando activamente en [Fazt Community](https://github.com/faztcommunity).👥
- * Cofundador de [Kodefi](https://kodefi.dev/), servicios y consultoría web.⚙️
- * Convirtiendome en un buen maintainer.🗂️
- * Estudiando activamente arquitectura de software.✏️
- * Blogueando sobre arquitecturas en tiempo real.📰
+ * Explorando nuevas tecnologías 🚀
+ * Colaborando activamente en [Fazt Community](https://github.com/faztcommunity) 👥
+ * Cofundador de [Kodefi](https://kodefi.dev/), servicios y consultoría web ⚙️
+ * Convirtiendome en un buen maintainer 🗂️
+ * Estudiando activamente arquitectura de software ✏️
+ * Blogueando sobre arquitecturas en tiempo real 📰
 
 #### Lenguajes
  * HTML5 y CSS

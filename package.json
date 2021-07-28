@@ -4,9 +4,8 @@
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
-    "start": "sirv docs",
+    "start": "sirv dist",
     "validate": "svelte-check",
-    "deploy": "node scripts/deploy.js",
     "update-readme": "node scripts/update_readme.js"
   },
   "repository": {
