@@ -1,4 +1,4 @@
-### Programador Javascript, desarrollador HTML y CSS. 
+### Backend Developer
 <!--header--->
 Desarrollador independiente. Me gusta el trabajo colaborativo, el código abierto, compartir conocimiento, el scripting y la automatización.
  * Explorando nuevas tecnologías 🚀
