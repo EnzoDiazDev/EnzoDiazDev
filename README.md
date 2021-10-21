@@ -22,10 +22,10 @@ también arquitectura, patrones y diseños de software, programación funcional,
 <!--footer-->
 #### Último post
 <!--lpstart--->
-|Mi machete de testing|
+|Qué es el hoisting y por qué no debería importarte|
 |:-|
-|<p>Machete basado principalmente en el libro <a href="https://www.federico-toledo.com/libro-de-testing-introduccion-a-las-pruebas-de-sistemas-de-informacion/">Testing — Introduccion a las pruebas de sistemas de información</a>, de Federico Toledo.</p><h4><strong>Calidad</strong>:</h4><p>La calidad es una característica que nos permite comparar distintas cosas del mismo tipo. Se calcula asignándole un valor en base a un conjunto de propiedades (seguridad, performance, usabilidad, etc.), que podrán ser ponderadas de distinta forma.</p><p>Hay que...|
-|<div align="right"><a href="https://enzodiazdev.medium.com/mi-machete-de-testing-f81743b18835?source=rss-76b0c55e6d4b------2">*leer más...*</a></div>|
+|<p>Seguramente habrás leído que el hoisting es cuando Javascript mueve tus declaraciones a la parte superior y bla bla.<br>No voy a confundirte, Javascript no mueve tus variables a ninguna parte sin tu permiso, se quedan ahí donde las dejaste.</p><p>Pero entonces, ¿qué es el hoisting?<br>El hoisting es el término usado para explicar un fenómeno natural que ocurre en Javascript con los espacios en memoria.</p><p>Para entenderlo, te resumo lo que ocurre internamente antes de correr tu código.</p><p>Existen dos “fases" en Javascript, donde primero...|
+|<div align="right"><a href="https://enzodiazdev.medium.com/qu%C3%A9-es-el-hoisting-y-por-qu%C3%A9-no-deber%C3%ADa-importarte-b36d6861eb19?source=rss-76b0c55e6d4b------2">*leer más...*</a></div>|
 <!--lpend--->
 
 **Contactame**
