@@ -109,3 +109,5 @@ dist/build
 Header.svelte
 Icon.svelte
 Menu.svelte
+dist/
+package-lock.json
