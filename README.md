@@ -1,32 +1,30 @@
 ### Backend Developer
 <!--header--->
-Desarrollador independiente. Me gusta el trabajo colaborativo, el código abierto, compartir conocimiento, el scripting y la automatización.
- * Explorando nuevas tecnologías 🚀
- * Colaborando activamente en [Fazt Community](https://github.com/faztcommunity) 👥
- * Cofundador de [Kodefi](https://kodefi.dev/), servicios y consultoría web ⚙️
- * Convirtiendome en un buen maintainer 🗂️
- * Estudiando activamente arquitectura de software ✏️
- * Blogueando sobre arquitecturas en tiempo real 📰
+NodeJS backend developer with advanced knowledge of Javascript and Typescript, focused on real-time systems and web technologies.<br>
+Self-taught programmer with more than four years in the industry.
 
-#### Lenguajes
- * HTML5 y CSS
- * Javascript
+ * Learning the newest technologies 🚀
+ * Actively collaborating in [Fazt Community](https://github.com/faztcommunity) 👥
+ * Becoming a good maintainer 🗂️
+ * Becoming a software architect ✏️
+ * Blogging about technology, sometimes. 📰
+
+#### Main languages
  * Typescript
- * [Haxe](https://haxe.org/)
- * Python
- * Otros: Solidity
+ * Javascript
+ * HTML5 y CSS
 
-y tecnologías como Git y Github, NodeJS, NoSQL, Firebase, HTTP, Socketio, OAuth, JWT, Webhooks, etc. <br>
-también arquitectura, patrones y diseños de software, programación funcional, reactiva, orientada a objetos, y más.
+NodeJS, NoSQL, HTTP, SocketIO, Express, NestJS, Git, HTML5, CSS3, JWT, API REST, Blockchain, Software Architecture, System Analysis, etc., you get the idea. <br>
+also software architecture, patterns, and designs. Functional, reactive, object-oriented programming, and more. 
 
 <!--footer-->
-#### Último post
+#### Read my last post *(spanish)*
 <!--lpstart--->
 |Qué es el hoisting y por qué no debería importarte|
 |:-|
 |<p>Seguramente habrás leído que el hoisting es cuando Javascript mueve tus declaraciones a la parte superior y bla bla.<br>No voy a confundirte, Javascript no mueve tus variables a ninguna parte sin tu permiso, se quedan ahí donde las dejaste.</p><p>Pero entonces, ¿qué es el hoisting?<br>El hoisting es el término usado para explicar un fenómeno natural que ocurre en Javascript con los espacios en memoria.</p><p>Para entenderlo, te resumo lo que ocurre internamente antes de correr tu código.</p><p>Existen dos “fases" en Javascript, donde primero...|
-|<div align="right"><a href="https://enzodiazdev.medium.com/qu%C3%A9-es-el-hoisting-y-por-qu%C3%A9-no-deber%C3%ADa-importarte-b36d6861eb19?source=rss-76b0c55e6d4b------2">*leer más...*</a></div>|
+|<div align="right"><a href="https://enzodiazdev.medium.com/qu%C3%A9-es-el-hoisting-y-por-qu%C3%A9-no-deber%C3%ADa-importarte-b36d6861eb19?source=rss-76b0c55e6d4b------2">*see more...*</a></div>|
 <!--lpend--->
 
-**Contactame**
-* enzodiazdev@gmail.com
+**Contact me**
+* https://linkedin.com/in/EnzoDiazDev
