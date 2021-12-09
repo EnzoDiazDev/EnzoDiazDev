@@ -23,7 +23,7 @@ also software architecture, patterns, and designs. Functional, reactive, object-
 |Qué es el hoisting y por qué no debería importarte|
 |:-|
 |<p>Seguramente habrás leído que el hoisting es cuando Javascript mueve tus declaraciones a la parte superior y bla bla.<br>No voy a confundirte, Javascript no mueve tus variables a ninguna parte sin tu permiso, se quedan ahí donde las dejaste.</p><p>Pero entonces, ¿qué es el hoisting?<br>El hoisting es el término usado para explicar un fenómeno natural que ocurre en Javascript con los espacios en memoria.</p><p>Para entenderlo, te resumo lo que ocurre internamente antes de correr tu código.</p><p>Existen dos “fases" en Javascript, donde primero...|
-|<div align="right"><a href="https://enzodiazdev.medium.com/qu%C3%A9-es-el-hoisting-y-por-qu%C3%A9-no-deber%C3%ADa-importarte-b36d6861eb19?source=rss-76b0c55e6d4b------2">*see more...*</a></div>|
+|<div align="right"><a href="https://enzodiazdev.medium.com/qu%C3%A9-es-el-hoisting-y-por-qu%C3%A9-no-deber%C3%ADa-importarte-b36d6861eb19?source=rss-76b0c55e6d4b------2">*leer más...*</a></div>|
 <!--lpend--->
 
 **Contact me**
