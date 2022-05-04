@@ -37,6 +37,9 @@
 
 {#await get_readme() then text}
 	<MarkdownViewer content={parse_readme(text)}/>
+	Undefined porque frontend me odia.
+	*en construcción*	
+
 	{#await get_lastpost() then lastpost}
 		<LastPost title={lastpost.title} description={lastpost.description} link={lastpost.link}/>
 	{/await}
