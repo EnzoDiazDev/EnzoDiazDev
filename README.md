@@ -23,7 +23,7 @@ Desarrollador Backend con más de 5 años de experiencia integrando sistemas esc
 **Jüsto** – Ssr Backend Developer<br>
 Buenos Aires, Argentina (Remoto) | 2024 – 2025
 
-Supermercado digital con operaciones en México. Integrado en el equipo de pagos y fraude, desarrollo de microservicios para la gestión de métodos de pago, procesamiento de pagos, prevención de fraude y reembolso de órdenes. Migración de componentes clave desde arquitectura monolítica hacia microservicios para mejorar la escalabilidad.
+Supermercado digital con operaciones en México. Integrado en el equipo de pagos y fraude, desarrollo de microservicios para la gestión de métodos de pago, procesamiento de pagos, prevención de fraude y reembolso de órdenes. Migración de componentes clave desde arquitectura monolítica hacia microservicios.
 
 **MODO** – Ssr Backend Developer<br>
 Buenos Aires, Argentina (Remoto) | 2022 – 2023
