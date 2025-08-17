@@ -1,0 +1,9 @@
+body {
+  margin: 2% 30%;
+  font-size: 12pt;
+}
+
+hr {
+  border-width: 1px;
+  border-color: gray;
+}
