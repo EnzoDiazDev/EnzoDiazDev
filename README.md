@@ -3,22 +3,22 @@
 ### **Backend Developer**
 
 **Contacto**<br>
-Email: [mail@enzodiaz.dev](mailto:mail@enzodiaz.dev)<br>
-Teléfono: [+54 2945 648669](https://wa.me/send/?phone=%2B542945648669&text=Hola%20Enzo,%20he%20visto%20tu%20cv)<br>
-Ubicación: Buenos Aires, Argentina<br>
-Sitio web: [https://enzodiaz.dev](https://enzodiaz.dev)<br>
-GitHub: [https://github.com/EnzoDiazDev](https://github.com/EnzoDiazDev)<br>
-LinkedIn: [https://linkedin.com/in/enzodiazdev](https://linkedin.com/in/enzodiazdev)<br>
+**Email**: [mail@enzodiaz.dev](mailto:mail@enzodiaz.dev)<br>
+**Teléfono**: [+54 2945 648669](https://wa.me/send/?phone=%2B542945648669&text=Hola%20Enzo,%20he%20visto%20tu%20cv)<br>
+**Ubicación**: Buenos Aires, Argentina<br>
+**Sitio web**: [https://enzodiaz.dev](https://enzodiaz.dev)<br>
+**GitHub**: [https://github.com/EnzoDiazDev](https://github.com/EnzoDiazDev)<br>
+**LinkedIn**: [https://linkedin.com/in/enzodiazdev](https://linkedin.com/in/enzodiazdev)<br>
 
 ---
 
-### Resumen profesional
+### **Resumen profesional**
 
 Desarrollador Backend con más de 5 años de experiencia integrando sistemas escalables y mantenibles para sectores como fintech, e-commerce y otros servicios digitales. Con enfoque en arquitectura, desarrollo, documentación, pruebas, despliegue continuo, mantenimiento y monitoreo de entornos productivos, trabajando junto a equipos multidisciplinarios bajo metodologías ágiles.
 
 ---
 
-### Experiencia profesional
+### **Experiencia profesional**
 
 **Jüsto** – Ssr Backend Developer<br>
 Buenos Aires, Argentina (Remoto) | 2024 – 2025
@@ -39,19 +39,19 @@ Desarrollo de sitios web y aplicaciones backend en colaboración con una agencia
 
 ### **Habilidades técnicas**
 
-- **Backend:** Node.js, TypeScript, APIs RESTful, WebSockets.
-- **Arquitecturas:** microservices, event driven, real time. 
-- **Infrastrucutra:** AWS (S3, DynamoDB, EventBridge, SNS, SQS), Kubernetes, Docker, ArgoCD.
-- **Testing:** Gherkin, Jest, pruebas unitarias, pruebas de integración.
-- **CI/CD:** Jenkins, GitHub Actions.
+- **Backend**: Node.js, TypeScript, APIs RESTful, WebSockets.
+- **Arquitecturas**: microservices, event driven, real time.
+- **Infraestructura**: AWS (S3, DynamoDB, EventBridge, SNS, SQS), Kubernetes, Docker, ArgoCD.
+- **Testing**: Gherkin, Jest, pruebas unitarias, pruebas de integración.
+- **CI/CD**: Jenkins, GitHub Actions.
 - **Observabilidad y operación**: OpenTelemetry, Grafana, CloudWatch, SigNoz, Kibana, Datadog, runbooks, postmortems.
-- **Documentación:** OpenAPI, RFCs, diagramas.
-- **Metodologías ágiles:** Scrum, Kanban, muy flexible.
+- **Documentación**: OpenAPI, RFCs, diagramas.
+- **Metodologías ágiles**: Scrum, Kanban, muy flexible.
 
 ### **Idiomas**
 
-- Español: nativo.
-- Inglés: lectura técnica avanzada.
+- **Español**: nativo.
+- **Inglés**: lectura técnica avanzada.
 
 **Puntos destacados**
 
